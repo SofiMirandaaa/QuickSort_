@@ -55,6 +55,10 @@ namespace QuickSort_
             int pivot,i,j;
             if (low > high)
                 return;
+
+            //partition the list into two parts
+            //one containing elements less that or equal to pivot
+            //other containnning elements greather than pivot
         }
         
     }
