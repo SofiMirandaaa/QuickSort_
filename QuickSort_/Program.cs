@@ -64,6 +64,9 @@ namespace QuickSort_
             j = high;
 
             pivot = arr [low];
+
+            while (i <= j)
+            { }
         }
         
     }
