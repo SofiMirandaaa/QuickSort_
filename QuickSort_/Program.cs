@@ -85,7 +85,8 @@ namespace QuickSort_
                 if (i < j)
                 {
                     //swap the element at index i with the element at index
-
+                    swap(i, j);
+                    mov_count++;
                 }
             }
         }
