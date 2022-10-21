@@ -59,6 +59,11 @@ namespace QuickSort_
             //partition the list into two parts
             //one containing elements less that or equal to pivot
             //other containnning elements greather than pivot
+
+            i = low + 1;
+            j = high;
+
+            pivot = arr [low];
         }
         
     }
