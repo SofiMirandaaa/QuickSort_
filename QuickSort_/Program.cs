@@ -116,6 +116,7 @@ namespace QuickSort_
                 Console.WriteLine(arr [j]);
             }
             Console.WriteLine("\nNumber of comparisons: " + cmp_count);
+            Console.WriteLine("\nNumber of data movements: " + mov_count);
         }
 
     }
