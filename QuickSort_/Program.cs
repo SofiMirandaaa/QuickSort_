@@ -92,6 +92,11 @@ namespace QuickSort_
             }
             //j now contains the index of the last element in the sorted list
 
+            if (low < j)
+            {
+                swap (low, j);
+                mov_count++;
+            }
 
         }
         
