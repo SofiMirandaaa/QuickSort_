@@ -131,6 +131,7 @@ namespace QuickSort_
             mylist.input();
             //calling the sorting function
             //first call to Quick sort algorithm
+            mylist.q_sort(0, mylist.getSize() -1);
         }
 
     }
