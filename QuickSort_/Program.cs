@@ -136,6 +136,7 @@ namespace QuickSort_
             mylist.display();
             //to exit from the console
             Console.WriteLine("\n\nPress Enter to exit.");
+            Console.Read();
         }
 
     }
