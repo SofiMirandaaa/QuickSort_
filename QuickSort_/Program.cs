@@ -107,7 +107,7 @@ namespace QuickSort_
         }
         void display()
         {
-
+            Console.WriteLine("\n-------------------------");
         }
 
     }
