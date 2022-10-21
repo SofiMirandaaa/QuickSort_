@@ -134,6 +134,7 @@ namespace QuickSort_
             mylist.q_sort(0, mylist.getSize() -1);
             //display sorted array
             mylist.display();
+            //to exit from the console
         }
 
     }
