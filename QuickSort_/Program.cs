@@ -109,6 +109,7 @@ namespace QuickSort_
         {
             Console.WriteLine("\n-------------------------");
             Console.WriteLine("Sorted array elements");
+            Console.WriteLine("-------------------------");
         }
 
     }
