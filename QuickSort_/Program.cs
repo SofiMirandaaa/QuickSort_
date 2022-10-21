@@ -81,6 +81,11 @@ namespace QuickSort_
                     cmp_count++;
                 }
                 cmp_count++;
+
+                if (i < j)
+                {
+                    
+                }
             }
         }
         
