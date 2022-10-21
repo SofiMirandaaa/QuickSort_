@@ -133,6 +133,7 @@ namespace QuickSort_
             //first call to Quick sort algorithm
             mylist.q_sort(0, mylist.getSize() -1);
             //display sorted array
+            mylist.display();
         }
 
     }
