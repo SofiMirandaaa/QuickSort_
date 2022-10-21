@@ -98,6 +98,8 @@ namespace QuickSort_
                 swap (low, j);
                 mov_count++;
             }
+
+            q_sort (low, j - 1);
             
 
         }
