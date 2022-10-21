@@ -123,6 +123,10 @@ namespace QuickSort_
         {
             return (n);   
         }
+        static void Main(string[]args)
+        {
+
+        }
 
     }
 }
