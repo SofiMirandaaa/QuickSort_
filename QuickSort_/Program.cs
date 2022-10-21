@@ -28,6 +28,7 @@ namespace QuickSort_
                 else
                     Console.WriteLine("\nArray can have maximum 20 elements \n");
             }
+
         }
     }
 }
