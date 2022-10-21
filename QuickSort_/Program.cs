@@ -105,6 +105,10 @@ namespace QuickSort_
             q_sort(j + 1, high);
 
         }
+        void display()
+        {
+
+        }
 
     }
 }
