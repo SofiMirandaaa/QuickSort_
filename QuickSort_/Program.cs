@@ -94,9 +94,11 @@ namespace QuickSort_
 
             if (low < j)
             {
+                //move the pivot to its correct position in the list
                 swap (low, j);
                 mov_count++;
             }
+            
 
         }
         
