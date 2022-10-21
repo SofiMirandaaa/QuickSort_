@@ -51,7 +51,10 @@ namespace QuickSort_
             arr [y] = temp;
         }
         public void q_sort(int low, int high)
-        { }
+        {
+            int pivot,i,j;
+
+        }
         
     }
 }
